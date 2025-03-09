@@ -9,6 +9,7 @@ export const {
   JWT_EXPIRES_IN,
   NODE_ENV,
   MONGO_URL,
+  IMAGEKIT_PUBLIC_KEY,
+  IMAGEKIT_PRIVATE_KEY,
+  IMAGEKIT_URL_ENDPOINT,
 } = process.env;
-
- 
